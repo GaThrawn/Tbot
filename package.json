@@ -1,0 +1,28 @@
+{
+  "name": "tbotbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaThrawn/Tbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaThrawn/Tbot/issues"
+  },
+  "homepage": "https://github.com/GaThrawn/Tbot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "fs-cheerio": "^2.0.1",
+    "lodash": "^4.17.5",
+    "mv": "^2.1.1",
+    "request": "^2.83.0",
+    "twit": "^2.2.9"
+  }
+}
